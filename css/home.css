@@ -1888,7 +1888,11 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+	.top_banner {
 
+	    height: 160vh;
+
+	}
 	.top_banner .banner_body .banner_content {
     margin-top: -50px;
 }
