@@ -1947,10 +1947,14 @@
 		-o-transform: translateY(-100px);
 	}
 	.top_banner .banner_body .banner_content h1 {
-    font-size: 4rem;
+    font-size: 3rem;
+}
+.top_banner .banner_body .banner_content .gt-btn .btn-box {
+	margin: 0px 2px;
 }
 
 		.publice_reviews .reviews .reviews_slider .item .box2{
 			display: none;
 		}
+
 }
