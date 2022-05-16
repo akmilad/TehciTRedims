@@ -1953,6 +1953,43 @@
 	margin: 0px 2px;
 }
 
+.features .features-element .elementor {
+	padding: 40px 30px;
+
+}
+
+.features .features-element .elementor .icon i {
+	font-size: 30px;
+
+}
+.features .features-element .elementor .desc p {
+	padding: 10px 0px;
+}
+
+.solutions .solutions_element .solutions_body .item {
+	padding: 22px 30px;
+}
+.solutions .solutions_element .solutions_body .item .icon {
+	padding: 7px 0px;
+}
+
+.solutions .solutions_element .solutions_body .item .icon i {
+
+	font-size: 25px;
+
+}
+
+.solutions .solutions_element .solutions_body .item .desc {
+	padding-left: 15px;
+}
+
+.mileston .counter-up .box .counter {
+	font-size: 30px !important;
+}
+.mileston .counter-up .box .text {
+	font-weight: 400;
+}
+
 		.publice_reviews .reviews .reviews_slider .item .box2{
 			display: none;
 		}
