@@ -1173,11 +1173,7 @@ font-weight: 500;
 
 		.fa-angle-down::before {
 		content: "\002B";
-		color: #666;
-		-webkit-color: #666;
-		-moz-color: #666;
-		-ms-color: #666;
-		-o-color: #666;
+		color: #111;
 		font-size: 14px;
 		position: absolute;
 		right: -18px;
@@ -1190,11 +1186,7 @@ font-weight: 500;
 		position: absolute;
 		right: -18px;
 		top: 8px;
-		color: #555;
-		-webkit-color: #555;
-		-moz-color: #555;
-		-ms-color: #555;
-		-o-color: #555;
+		color: #111;
 		font-size: 14px;
 		padding: 10px 10px;
 		cursor: pointer;

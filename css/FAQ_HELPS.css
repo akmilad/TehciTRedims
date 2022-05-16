@@ -311,7 +311,7 @@ button:focus:not(:focus-visible) {
 	.footer_area .footer_content .footer_1 {
 		padding-right: 30px;
 	}
-	
+
 	.footer_area .footer_content .footer_1  a {
 		position: relative;
 		z-index: 9;
@@ -1033,11 +1033,7 @@ z-index: 999;
 
 .fa-angle-down::before {
 	content: "\002B";
-	color: #666;
-	-webkit-color: #666;
-	-moz-color: #666;
-	-ms-color: #666;
-	-o-color: #666;
+	color: #111;
 	font-size: 14px;
 	position: absolute;
 	right: -18px;
@@ -1050,11 +1046,7 @@ z-index: 999;
 	position: absolute;
 	right: -18px;
 	top: 8px;
-	color: #555;
-	-webkit-color: #555;
-	-moz-color: #555;
-	-ms-color: #555;
-	-o-color: #555;
+	color: #111;
 	font-size: 14px;
 	padding: 10px 10px;
 	cursor: pointer;

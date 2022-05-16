@@ -1518,7 +1518,7 @@ z-index: 999;
 
 .fa-angle-down::before {
 	content: "\002B";
-	color: #666;
+	color: #111;
 	-webkit-color: #666;
 	-moz-color: #666;
 	-ms-color: #666;
@@ -1535,7 +1535,7 @@ z-index: 999;
   position: absolute;
   right: -18px;
   top: 8px;
-	color: #555;
+	color: #111;
 	-webkit-color: #555;
 	-moz-color: #555;
 	-ms-color: #555;
